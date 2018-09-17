@@ -1,10 +1,13 @@
-# y
+# shallwe 后台管理系统
 
 > vue-shallwe-admin
 
 ## Build Setup
 
 ``` bash
+# clone project
+git clone https://github.com/xiaoxiao65535/vue-shallwe-admin.git
+
 # install dependencies
 npm install
 
